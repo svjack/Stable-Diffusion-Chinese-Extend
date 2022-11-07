@@ -1,6 +1,6 @@
 from init_model import *
 
-path = "/Users/svjack/temp/image_transformer/outputs/simplet5-epoch-1-train-loss-3.0793-val-loss-2.8246"
+path = "svjack/prompt-extend-chinese"
 #### upload to huggingface
 mt5_b_cpu = T5_B(path,
     device = "cpu")
