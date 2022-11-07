@@ -62,7 +62,7 @@ This project provide a finetuned version of [Taiyi-Stable-Diffusion-1B-Chinese-v
 All models are upload to [Huggingface Hub](https://huggingface.co/svjack).
 
 ### Implementation details
-To fine tune them, the only required are translated datasets. Firstly, I random sample 10k English samples from [diffusiondb](https://github.com/poloclub/diffusiondb) and use [NMT](https://en.wikipedia.org/wiki/Neural_machine_translation) translate them into Chinese with some corrections. It have upload to [svjack/diffusiondb_random_10k_zh_v1](https://huggingface.co/datasets/svjack/diffusiondb_random_10k_zh_v1) use this dataset on base model will give us the demand. <br/>
+To fine tune them, the only require are translated datasets. Firstly, I random sample 10k English samples from [diffusiondb](https://github.com/poloclub/diffusiondb) and use [NMT](https://en.wikipedia.org/wiki/Neural_machine_translation) translate them into Chinese with some corrections. It have upload to [svjack/diffusiondb_random_10k_zh_v1](https://huggingface.co/datasets/svjack/diffusiondb_random_10k_zh_v1) use this dataset on base model will give us the demand. <br/>
 
 The finetuned text to image model include three models named with <br/>
 [svjack/Stable-Diffusion-FineTuned-zh-v0](https://huggingface.co/svjack/Stable-Diffusion-FineTuned-zh-v0)<br/>
