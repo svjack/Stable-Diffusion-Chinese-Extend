@@ -89,31 +89,31 @@ Refer the model cards in [Huggingface Hub](https://huggingface.co/svjack). Or lo
 <tbody>
 <tr>
 <td>卡通龙</td>
-<td><img src="imgs/dragon_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_v2.jpg" alt="Girl in a jacket" width="550" height="450"></td>
+<td><img src="imgs/dragon_taiyi.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_v0.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_v1.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_v2.jpg" alt="Girl in a jacket" width="450" height="450"></td>
 </tr>
 <tr>
 <td>卡通龙,数字艺术、艺术品趋势、电影照明、工作室质量、光滑成型</td>
-<td><img src="imgs/dragon_style_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_style_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_style_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/dragon_style_v2.jpg" alt="Girl in a jacket" width="550" height="450"></td>
+<td><img src="imgs/dragon_style_taiyi.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_style_v0.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_style_v1.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/dragon_style_v2.jpg" alt="Girl in a jacket" width="450" height="450"></td>
 </tr>
 <tr>
 <td>第一次世界大战</td>
-<td><img src="imgs/war_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_v2.jpg" alt="Girl in a jacket" width="550" height="450"></td>
+<td><img src="imgs/war_taiyi.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_v0.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_v1.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_v2.jpg" alt="Girl in a jacket" width="450" height="450"></td>
 </tr>
 <tr>
 <td>第一次世界大战,在艺术站的潮流,8,高度详细,高质量,高分辨率,获</td>
-<td><img src="imgs/war_style_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_style_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_style_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
-<td><img src="imgs/war_style_v2.jpg" alt="Girl in a jacket" width="550" height="450"></td>
+<td><img src="imgs/war_style_taiyi.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_style_v0.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_style_v1.jpg" alt="Girl in a jacket" width="450" height="450"></td>
+<td><img src="imgs/war_style_v2.jpg" alt="Girl in a jacket" width="450" height="450"></td>
 </tr>
 <tr>
 <td>女孩</td>
