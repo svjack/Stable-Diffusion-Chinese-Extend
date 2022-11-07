@@ -17,7 +17,7 @@ This repository create at 2022.11.5.
 Recently, [IDEA-CCNL](https://github.com/IDEA-CCNL/Fengshenbang-LM) have released their [Taiyi-Stable-Diffusion-1B-Chinese-v0.1](IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) in 2022.11.2. As a basic model train on massive dataset, it perform Chinese prompt to image generation task very well. The model trained on [wukong-dataset](https://wukong-dataset.github.io/wukong-dataset/), the dataset construct by many realistic style features. This makes the output slightly different with the original [CompVis/stable-diffusion-v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4)'s style. This may have some negative effect when one want to generate a image like original [CompVis/stable-diffusion-v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4) or a more valuable demand about use some modifier to make prompts more expressive.<br/>
 
 The above idea is sourced from a project named [prompt-extend](https://github.com/daspartho/prompt-extend), it extending stable diffusion English prompts with suitable style cues using text generation.
-And people can with it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/prompt-extend).
+And people can try it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/prompt-extend).
 
 Below are some examples about use [Taiyi-Stable-Diffusion-1B-Chinese-v0.1](IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) to generate image with or without style cues in Chinese.
 ```python
