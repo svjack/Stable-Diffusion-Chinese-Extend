@@ -1,0 +1,5 @@
+diffusers==0.6.0
+transformers
+torch
+datasets
+accelerate
