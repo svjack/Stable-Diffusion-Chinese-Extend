@@ -4,7 +4,7 @@ pipeline = StableDiffusionPipeline.from_pretrained("svjack/Stable-Diffusion-Fine
 pipeline.safety_checker = lambda images, clip_input: (images, False)
 pipeline = pipeline.to("cuda")
 
-path = "/Users/svjack/temp/image_transformer/outputs/simplet5-epoch-1-train-loss-3.0793-val-loss-2.8246"
+path = "svjack/prompt-extend-chinese"
 #### upload to huggingface
 mt5_b_cpu = T5_B(path,
     device = "cpu")
