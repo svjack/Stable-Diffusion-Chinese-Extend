@@ -19,7 +19,7 @@ def predict_one_with_prompt_extend(prompt):
     assert type(tail) == type("")
     #prompt = '女孩们打开了另一世界的大门'
     prompt_extend = "{},{}".format(prompt, tail)
-    image = pipeline(prompt, guidance_scale=7.5).images[0]
+    image = pipeline(prompt_extend, guidance_scale=7.5).images[0]
     return image
 
 
