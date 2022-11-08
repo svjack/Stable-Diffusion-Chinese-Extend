@@ -116,14 +116,14 @@ Refer the model cards in [Huggingface Hub](https://huggingface.co/svjack). Or lo
 <td><img src="imgs/war_style_v2.jpg" alt="Girl in a jacket" width="450" height="450"></td>
 </tr>
 <tr>
-<td>女孩</td>
+<td>女孩们打开了另一世界的大门</td>
 <td><img src="imgs/girl_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 <td><img src="imgs/girl_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 <td><img src="imgs/girl_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 <td><img src="imgs/girl_v2.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 </tr>
 <tr>
-<td>女孩,穿着黑色长袍,在森林里,由,和,制作的艺术作品</td>
+<td>女孩们打开了另一世界的大门,由,和,制作,在艺术站上趋势,8,超宽角度,</td>
 <td><img src="imgs/girl_style_taiyi.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 <td><img src="imgs/girl_style_v0.jpg" alt="Girl in a jacket" width="550" height="450"></td>
 <td><img src="imgs/girl_style_v1.jpg" alt="Girl in a jacket" width="550" height="450"></td>
