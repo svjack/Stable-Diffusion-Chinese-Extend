@@ -19,7 +19,7 @@ Recently, [IDEA-CCNL](https://github.com/IDEA-CCNL/Fengshenbang-LM) have release
 The above idea is sourced from a project named [prompt-extend](https://github.com/daspartho/prompt-extend), it extending stable diffusion English prompts with suitable style cues using text generation.
 And people can try it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/prompt-extend).
 
-Below are some examples about use [Taiyi-Stable-Diffusion-1B-Chinese-v0.1](IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) to generate image with or without style cues in Chinese.
+Below are some examples about use [Taiyi-Stable-Diffusion-1B-Chinese-v0.1](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1) to generate image with or without style cues in Chinese.
 ```python
 from diffusers import StableDiffusionPipeline
 pipe = StableDiffusionPipeline.from_pretrained("IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1")
