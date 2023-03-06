@@ -226,6 +226,7 @@ def parse_args():
     return args
 
 
+'''
 def parse_parser_add_arg(parser, as_named_tuple = False):
     args_df = pd.DataFrame(
     pd.Series(parser.__dict__["_actions"]).map(
@@ -238,6 +239,25 @@ def parse_parser_add_arg(parser, as_named_tuple = False):
         lambda x: x[1:] if x.startswith("-") else x
         )
     args_df = args_df[["option_strings", "default"]]
+    args = dict(args_df.values.tolist())
+    if as_named_tuple:
+        args_parser_namedtuple = namedtuple("args_config", args)
+        return args_parser_namedtuple(**args)
+    return args_df
+'''
+def parse_parser_add_arg(parser, as_named_tuple = False):
+    args_df = pd.DataFrame(
+    pd.Series(parser.__dict__["_actions"]).map(
+    lambda x:x.__dict__
+    ).values.tolist())
+    args_df = args_df.explode("option_strings")
+    args_df["option_strings"] = args_df["option_strings"].map(
+    lambda x: x[2:] if x.startswith("--") else x
+    ).map(
+        lambda x: x[1:] if x.startswith("-") else x
+        )
+    args_df = args_df[["option_strings", "default"]]
+    args_df["option_strings"] = args_df["option_strings"].map(lambda x: x.replace("-", "_"))
     args = dict(args_df.values.tolist())
     if as_named_tuple:
         args_parser_namedtuple = namedtuple("args_config", args)
