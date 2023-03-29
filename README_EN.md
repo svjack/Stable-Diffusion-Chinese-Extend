@@ -9,7 +9,7 @@
   </p>
 </p>
 
-[中文说明](README_ZH.md)
+[中文说明](README.md)
 
 ### Brief introduction
 [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) is a state of the art text-to-image model that generates images from text.<br/>
