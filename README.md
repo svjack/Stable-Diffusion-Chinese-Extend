@@ -70,7 +70,7 @@ The finetuned text to image model include three models named with <br/>
 [svjack/Stable-Diffusion-FineTuned-zh-v2](https://huggingface.co/svjack/Stable-Diffusion-FineTuned-zh-v2)<br/>
 This three models are trained with increase steps.(i.e. v0 stop early and v2 the last stop)
 
-Secondly, I train a Chinese style cues generator based on MT5. In this step, i only need translated text features. The model is located in [svjack/prompt-extend-chinese](https://huggingface.co/svjack/prompt-extend-chinese) and [svjack/prompt-extend-chinese-gpt](https://huggingface.co/svjack/prompt-extend-chinese-gpt)
+Secondly, I train a Chinese style cues generator based on MT5. In this step, i only need translated text features. The model is located in [svjack/prompt-extend-chinese](https://huggingface.co/svjack/prompt-extend-chinese) and [svjack/prompt-extend-chinese-gpt](https://huggingface.co/svjack/prompt-extend-chinese-gpt) based on GPT2<br/>
 The space can try it in [svjack/prompt-extend-gpt-chinese](https://huggingface.co/spaces/svjack/prompt-extend-gpt-chinese)
 
 ### Usage
