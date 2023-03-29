@@ -8,7 +8,7 @@
   </p>
 </p>
 
-[英文说明](README.md)
+[英文说明](README_EN.md)
 
 ### 简要引述
 [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)是现有的一流文本转图像模型。<br/>现如今借助提供跨模态预训练模型的框架[diffusers](https://github.com/huggingface/diffusers)，人们可以通过条件的或非条件的方式（是否提供提示文本）来定制化他们的图像生成器。<br/>这个工程聚焦于根据[text to image example](https://github.com/huggingface/diffusers/tree/main/examples/text_to_image)中的例子使用来自于[diffusiondb](https://github.com/poloclub/diffusiondb)的自翻译数据，达到类似的效果。
